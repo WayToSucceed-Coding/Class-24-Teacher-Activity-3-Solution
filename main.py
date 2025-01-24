@@ -1,8 +1,8 @@
 import random
 import time
 
-# n= random.randint(1,6)
-# print(n)
+n= random.randint(1,6)
+print(n)
 
 print('Hello')
 time.sleep(5)
